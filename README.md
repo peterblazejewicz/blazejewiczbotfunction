@@ -12,6 +12,8 @@ Local debugging for TypeScript files is not supported yet.
 [5/7/18 8:39:32 PM] SampleHttpTrigger: Object reference not set to an instance of an object.
 ```
 
+Async/Await seems to be not yet supported too (spills errors in functions cli console).
+
 ## Remove errors in Azure CLI tools
 
 ### Remove `Worker encountered an error`
