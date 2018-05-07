@@ -1,6 +1,16 @@
 # blazejewiczbotfunction
 
-A CI repo for Azure functions
+A CI repo for Azure functions.
+
+![image](https://user-images.githubusercontent.com/14539/39724147-3d7a9aec-5248-11e8-9913-e069139684e3.png)
+
+Local debugging for TypeScript files is not supported yet.
+
+```bash
+[5/7/18 8:39:32 PM] The following 2 functions are in error:
+[5/7/18 8:39:32 PM] GenericWebhookTS1: Object reference not set to an instance of an object.
+[5/7/18 8:39:32 PM] SampleHttpTrigger: Object reference not set to an instance of an object.
+```
 
 ## Remove errors in Azure CLI tools
 
