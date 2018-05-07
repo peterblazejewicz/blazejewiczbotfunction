@@ -2,8 +2,15 @@
 
 A CI repo for Azure functions
 
-
 ## Remove errors in Azure CLI tools
+
+### Remove `Worker encountered an error`
+
+That's just because Azure Func does not support Node 9.*/10.* yet. Use `nvm`:
+
+```bash
+nvm use v8.9.4
+```
 
 ### `JAVA_HOME` error
 
