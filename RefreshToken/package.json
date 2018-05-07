@@ -1,0 +1,11 @@
+{
+  "name": "refresh-token",
+  "version": "1.0.0",
+  "description": "Refresh session token for DirectLine using BotFramework API",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "promise.prototype.finally": "^3.1.0"
+  }
+}
