@@ -25,3 +25,5 @@ local.settings.json
 # NodeJS
 
 node_modules/
+
+.env
